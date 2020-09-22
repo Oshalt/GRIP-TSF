@@ -1,7 +1,3 @@
-# GRIP-TSF
-TSF The Sparks Foundation is a non- profit organization running in India and Singapore and expanding globally. We inspire students to innovate and help them integrate to build a better humankind. 
-GRIP Our Graduate Rotational Internship Program is an unique offer for students and recent graduates to experience and join TSF. This program aims to enable students to be professionally capable, and entrepreneurial.
-
 Task # 2 - To Explore
 Supervised Machine Learning
 
